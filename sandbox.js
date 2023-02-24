@@ -102,12 +102,12 @@ console.log(result10);
 
 //creating html templates
 
-let html = `
+/*let html = `
 <h2>${title}</h2>
 <p>By ${author}<p2/>
 <span>This blog has ${reacts} reacts<span/>
 `;
-console.log(html);
+console.log(html);*/
 
 // arrays
 
